@@ -1,1 +1,1 @@
-echo "Hello from the other side of Jenkins Help Help Jump Jump.sh"
+echo "Hello from the Jenkins job named: ${JOB_NAME}"
